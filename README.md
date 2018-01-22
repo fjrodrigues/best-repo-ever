@@ -3,4 +3,4 @@
 new changes #1
 type '123'
 
-change to break merge
+different changes to the file
